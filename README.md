@@ -13,3 +13,7 @@ This is example is to show different parts od the git repository and various com
 This is a simple webproject deployment can be on any web server or even local file system
 
 ## How to Contribute
+
+### Copywright
+2023
+git practise
