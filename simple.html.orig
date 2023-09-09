@@ -1,0 +1,38 @@
+<!--Copywright 2023 Git prancise-->
+
+<!DOCTYPE html>
+<head>
+<<<<<<< HEAD
+	<title>Wonderfool webpage</title>
+=======
+	<title>Example website mod2</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 60px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Just some  great content
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; CompanyMyCompany 2023</p>
+=======
+			Just some intresting thing
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2023</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
