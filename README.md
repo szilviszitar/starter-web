@@ -16,5 +16,4 @@ This is a simple webproject deployment can be on any web server or even local fi
 Please fork this repository and then issue Pull request for review.
 ### Copywright
 2023
-git practise
-modification
+ALl rights
