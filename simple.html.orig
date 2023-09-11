@@ -1,12 +1,14 @@
-<!--Copywright 2023 Git prancise-->
+<!--Copywright 2023 Git prancise
+<<<<<<< HEAD
+adding more more trouble-->
+=======
+adding changes before rebasing
+branch bigtrouble changes-->
+>>>>>>> 058e851 (adding some trouble)
 
 <!DOCTYPE html>
 <head>
-<<<<<<< HEAD
 	<title>Wonderfool webpage</title>
-=======
-	<title>Example website mod2</title>
->>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -21,18 +23,14 @@
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			Just some  great content
+			Just delete previous content
+=======
+			Just some intresting thing and trouble
+>>>>>>> 058e851 (adding some trouble)
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; CompanyMyCompany 2023</p>
-=======
-			Just some intresting thing
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Company 2023</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
